@@ -1,4 +1,4 @@
-# chat_withChatGPTと音声ベースで会話（とちゅう）
+# chat_withChatGPTと音声ベースで会話（制作途中）
 ChatGPT API, Whisper API, Google Cloud TexttoSpeechを組み合わせて会話するためのプログラムです。
 ChatGPTに与えるプロンプトをあいまいに変更するだけで様々な専門家、シチュエーションを実現できるようにしたかった
 
